@@ -25,9 +25,7 @@ SECRET_KEY = 'ao5z(o(z@cvzodm99d32jkxa5e8a1!q_4sqss5-a%n6tg$#h$+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-APPEND_SLASH = True
-
-ALLOWED_HOSTS = ["cd27fc77-5988-47a9-bbe8-a9ede92d48de-bluemix.cloudant.com", "localhost"]
+ALLOWED_HOSTS = ['cd27fc77-5988-47a9-bbe8-a9ede92d48de-bluemix.cloudant.com', 'localhost']
 
 
 # Application definition

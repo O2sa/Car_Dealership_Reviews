@@ -1,4 +1,4 @@
-  applications:
+applications:
   - name: djangoapp
     routes:
       - route: cd27fc77-5988-47a9-bbe8-a9ede92d48de-bluemix.cloudant.com
