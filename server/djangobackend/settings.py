@@ -25,7 +25,7 @@ SECRET_KEY = 'ao5z(o(z@cvzodm99d32jkxa5e8a1!q_4sqss5-a%n6tg$#h$+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cd27fc77-5988-47a9-bbe8-a9ede92d48de-bluemix.cloudantnosqldb.appdomain.cloud', 'localhost']
+ALLOWED_HOSTS = ['cd27fc77-5988-47a9-bbe8-a9ede92d48de-bluemix.us-south.cf.appdomain.cloud', 'localhost']
 
 
 # Application definition
