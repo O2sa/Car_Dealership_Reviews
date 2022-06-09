@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["jms-ibmcloud-bestcarsfull.us-south.cf.appdomain.cloud", "localhost"]
+ALLOWED_HOSTS = ["flaviodiniz.us-south.cf.appdomain.cloud", "localhost"]
 
 
 # Application definition

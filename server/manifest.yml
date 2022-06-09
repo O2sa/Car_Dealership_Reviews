@@ -1,11 +1,11 @@
   applications:
   - name: djangoapp
     routes:
-      - route: jms-ibmcloud-bestcarsfull.us-south.cf.appdomain.cloud
+      - route: flaviodiniz.us-south.cf.appdomain.cloud
     memory: 128M
     buildpack: python_buildpack
   - name: djangoapp-nginx
     routes:
-      - route: jms-ibmcloud-bestcarsfull.us-south.cf.appdomain.cloud/static
+      - route: flaviodiniz.us-south.cf.appdomain.cloud/static
     memory: 128M
     buildpack: staticfile_buildpack
