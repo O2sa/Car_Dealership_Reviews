@@ -1,11 +1,17 @@
 # FullStack Cloud App Development - Car Dealership Reviews
 
 A portfolio of hands-on projects involving a variety of popular technologies and programming languages for full-stack cloud application development.
+
 Includes publishing HTML pages to a cloud object store.
+
 Create an app for logging in and publishing reviews using HTML, CSS and JavaScript.
+
 Deploying an AI application in Cloud Foundry using DevOps principles and the CI/CD toolset.
+
 using a NoSQL database, Node.js and react. 
+
 an RDBMS application with Django ORM and Bootstrap.
+
 An application built with microservices and serverless.
 
 Here's the project Visualization:
